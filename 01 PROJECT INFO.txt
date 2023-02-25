@@ -1,6 +1,6 @@
 
 
-**Developed By Akash Roshan**
+**Developed By Lee Derrosi**
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
